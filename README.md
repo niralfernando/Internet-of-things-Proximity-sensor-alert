@@ -1,6 +1,6 @@
 #"INTERNET OF THINGS"-PROXIMITY SENSITIVE SMARTPHONE ALERT SYSTEM#
 
-<img src="https://raw.github.com/niralfernando/Proximity-Sensitive-Smartphone-Alert-System/master/images/IMG_1.JPG" 
+<img src="https://raw.github.com/niralfernando/Proximity-Sensitive-Smartphone-Alert-System/master/images/IMG_1.png" 
 alt="IMAGE ALT TEXT HERE" width="700" height="450" border="10" />
 
 
@@ -23,7 +23,7 @@ When the send pin changes state, it will eventually change the state of the rece
 
 ##Capacitive proximity sensor --> Internet
 
-<img src="https://raw.github.com/niralfernando/Proximity-Sensitive-Smartphone-Alert-System/master/images/IMG_2.JPG" 
+<img src="https://raw.github.com/niralfernando/Proximity-Sensitive-Smartphone-Alert-System/master/images/IMG_2.png" 
 alt="IMAGE ALT TEXT HERE" width="700" height="450" border="10" />
 
 
