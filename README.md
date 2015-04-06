@@ -1,6 +1,6 @@
 #"INTERNET OF THINGS"-PROXIMITY SENSITIVE SMARTPHONE ALERT SYSTEM#
 
-<img src="https://raw.github.com/niralfernando/Proximity-Sensitive-Smartphone-Alert-System/master/images/IMG_1.png" 
+<img src="https://raw.github.com/niralfernando/Internet-of-things-Proximity-sensor-alert/master/images/IMG_1.png" 
 alt="IMAGE ALT TEXT HERE" width="700" height="450" border="10" />
 
 
@@ -23,16 +23,16 @@ When the send pin changes state, it will eventually change the state of the rece
 
 ##Capacitive proximity sensor --> Internet
 
-<img src="https://raw.github.com/niralfernando/Proximity-Sensitive-Smartphone-Alert-System/master/images/IMG_2.png" 
+<img src="https://raw.github.com/niralfernando/Internet-of-things-Proximity-sensor-alert/master/images/IMG_2.png" 
 alt="IMAGE ALT TEXT HERE" width="700" height="450" border="10" />
 
 
 The capacitive proximity sensor I built works with an Aruduino UNO. When an object comes to close proximity, the Arduino triggers an alert. This alert is sent to an wifi-adapting micro-controller (electric imp) via UART communication. The alert is sent from electric imp's device code to server side code. I programmed the server code so it sends a text to my smart-phone and POSTS a JSON encoded alert to a give server. In my case, I developed a PHP application that receives the POST request made by electric imp's server and outputs a .txt file has a log of POST requests.
 
-<img src="https://raw.github.com/niralfernando/Proximity-Sensitive-Smartphone-Alert-System/master/images/ScreenShot.png" 
+<img src="https://raw.github.com/niralfernando/Internet-of-things-Proximity-sensor-alert/master/images/ScreenShot.png" 
 alt="IMAGE ALT TEXT HERE" width="700" height="450" border="10" />
 
-<img src="https://raw.github.com/niralfernando/Proximity-Sensitive-Smartphone-Alert-System/master/images/website_update.png" 
+<img src="https://raw.github.com/niralfernando/Internet-of-things-Proximity-sensor-alert/master/images/website_update.png" 
 alt="IMAGE ALT TEXT HERE" width="700" height="450" border="10" />
   
 
