@@ -23,7 +23,7 @@ When the send pin changes state, it will eventually change the state of the rece
 
 ##Capacitive proximity sensor --> Internet
 
-<img src="https://raw.github.com/niralfernando/Internet-of-things-Proximity-sensor-alert/master/images/IMG_2.png" 
+<img src="https://raw.githubusercontent.com/niralfernando/Internet-of-things-Proximity-sensor-alert/master/images/IMG_2.png" 
 alt="IMAGE ALT TEXT HERE" width="700" height="450" border="10" />
 
 
