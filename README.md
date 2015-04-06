@@ -1,6 +1,6 @@
 #"INTERNET OF THINGS"-PROXIMITY SENSITIVE SMARTPHONE ALERT SYSTEM#
 
-<img src="https://raw.github.com/niralfernando/Internet-of-things-Proximity-sensor-alert/master/images/IMG_1.png" 
+<img src="https://raw.githubusercontent.com/niralfernando/Internet-of-things-Proximity-sensor-alert/master/images/IMG_1.png" 
 alt="IMAGE ALT TEXT HERE" width="700" height="450" border="10" />
 
 
